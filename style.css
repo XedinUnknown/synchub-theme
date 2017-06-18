@@ -6,3 +6,10 @@ Version: 0.1.0
 Template: kolumn
 */
 @import url("../kolumn/style.css");
+
+.edgtf-logo-wrapper a { height: auto !important; }
+
+.edgtf-title { display: none; }
+
+.single-post .edgtf-article-top-part { height: 32px; background: white !important; }
+.single-post .edgtf-post-image > img { display: none; }
