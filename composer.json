@@ -1,0 +1,23 @@
+{
+  "name": "xedinunknown/synchub-theme",
+  "description": "The SyncHub theme, which is a child of the Kolumn theme",
+  "type": "wordpress-theme",
+  "license": "GPL-3.0",
+  "authors": [
+      {
+          "name": "Anton Ukhanev",
+          "email": "xedin.unknown@gmail.com"
+      }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+      "php": "^5.3 | ^7.0",
+      "aukhanev/kolumn": "^1.1"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "bitbucket-aukhanev:aukhanev/kolumn.git"
+    }
+  ]
+}

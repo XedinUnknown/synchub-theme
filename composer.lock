@@ -1,0 +1,44 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "59320f347f3a496795b0ceff8180df59",
+    "packages": [
+        {
+            "name": "aukhanev/kolumn",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "bitbucket-aukhanev:aukhanev/kolumn.git",
+                "reference": "d73c9c8150ac709545e5b2fc4d20dfe4e8ca8fb2"
+            },
+            "require": {
+                "php": "^5.3 | ^7.0"
+            },
+            "type": "wordpress-theme",
+            "license": [
+                "GPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Anton Ukhanev",
+                    "email": "xedin.unknown@gmail.com"
+                }
+            ],
+            "description": "The Kolumn theme for WP",
+            "time": "2017-06-18T16:26:56+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^5.3 | ^7.0"
+    },
+    "platform-dev": []
+}
